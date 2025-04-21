@@ -23,6 +23,8 @@ The dashboard is organized into tabs for easy navigation and supports explorator
 ## Real-World Impact
 This project highlights the association between PTSD symptoms and blood pressure variability, an important early marker of cardiovascular risk. Understanding these patterns can guide more targeted interventions to improve heart health in individuals experiencing chronic psychological stress.
 
+## GitHub Pages Link
+The live dashboard can be viewed at https://shicy621.github.io/final-dashboard/
 
 ---
 
